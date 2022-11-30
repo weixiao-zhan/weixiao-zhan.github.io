@@ -33,7 +33,7 @@ Zhan, W., Yang, X., Lu, G., Deng, Y., &amp; Yang, L. (2022). A rapid quality gra
 # Projects
 
 **Binary Analysis Tools Comparison**
-07/2022-Now
+05/2022-Now
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Comparing binary analysis tools on how they analyze and reconstruct control flow graphs. Participated in and contributed to [Dyninst](https://github.com/dyninst/dyninst) development.
 
