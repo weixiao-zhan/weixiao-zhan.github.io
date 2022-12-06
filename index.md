@@ -16,7 +16,7 @@ layout: default
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tech Stack:SQL, SVM, Scorecard
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Participated in a tentative project, attempting to apply FICO’s scorecard model of personal creditscore to evaluate companies’finical standing.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Participated in a tentative project, attempting to apply FICO’s score-card model of personal credit score to evaluate companies’ finical standing.
 
 **Research Assistant** @ **National Agricultural and Rural Big Data Center-Yunnan Branch**
 02/2019-03/2019
@@ -37,7 +37,7 @@ Zhan, W., Yang, X., Lu, G., Deng, Y., &amp; Yang, L. (2022). A rapid quality gra
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Comparing binary analysis tools on how they analyze and reconstruct control flow graphs. Participated in and contributed to [Dyninst](https://github.com/dyninst/dyninst) development.
 
-**Memory Allocation Comparison**
+**Memory Allocation Measurement**
 10/2022-Now
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Comparing the performance of a couple of recently proposed memory allocation algorithms, using “record trace and reply” approach borrowed from The Scalable Commutativity Rule (Clements et al., 2015). [code-repo](https://github.com/evanwire/MemoryManagementSim)
@@ -60,7 +60,7 @@ Zhan, W., Yang, X., Lu, G., Deng, Y., &amp; Yang, L. (2022). A rapid quality gra
 **Enhanced Features on PintOS**
 05/2020-08/2020
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Implemented  process  forking,  better  virtual  memory  management  (demand  paging),  priority  scheduler (support semaphore, lock, and conditional variable), and a modified FFS file system (buffer cache).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Implemented  process  forking,  better  virtual  memory  management  (demand  paging), priority scheduler (support semaphore, lock, and conditional variable), and a modified FFS file system (buffer cache).
 
 **RISC -V 32-bit2 State Processor Design**
 04/2020-05/2020
