@@ -11,7 +11,7 @@ layout: default
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inspected some popular De-Fi protocols’ public code and reconstructed their underlying math models. Developed smart contracts for [Earning.Farm](https://earning.farm/), achieved 9% APY to $10 million tokens.
 
 
-**Research Assistant** @ **Wisdom Hechuang (Beijing) Technology Co., Ltd**
+**Research Assistant** @ **Wiseco Technology (Beijing) Co., Ltd**
 01/2021-02/2021
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tech Stack:SQL, SVM, Scorecard
