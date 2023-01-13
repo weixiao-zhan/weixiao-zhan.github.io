@@ -37,13 +37,14 @@ Zhan, W., Yang, X., Lu, G., Deng, Y., &amp; Yang, L. (2022). A rapid quality gra
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Comparing binary analysis tools on how they analyze and reconstruct control flow graphs. Participated in and contributed to [Dyninst](https://github.com/dyninst/dyninst) development.
 
+
+---
+
 **Memory Allocation Measurement**
-10/2022-Now
+10/2022-12/2022
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Comparing the performance of a couple of recently proposed memory allocation algorithms, using “record trace and reply” approach borrowed from The Scalable Commutativity Rule (Clements et al., 2015). [code-repo](https://github.com/evanwire/MemoryManagementSim)
 
-
----
 
 **Minim Compiler**
 09/2022-12/2022
@@ -79,21 +80,21 @@ Zhan, W., Yang, X., Lu, G., Deng, Y., &amp; Yang, L. (2022). A rapid quality gra
 
 **University of Wisconsin, Madison**
 * current B.S. studeent, 
-* Computer Science, GPA:4.0, 09/2021-Now
-* Core courses: Compiler, Machine Learning, ComputerGraphics, Advanced Operating Systems
+* Computer Science, GPA:4.0/4, 09/2021-05/2023(est.)
+* Core courses: Compiler, Machine Learning, ComputerGraphics, Advanced Operating Systems. [transcript](assets/transcript_uwm.pdf) 
 
 **University of California, Berkeley**
-* BGA Program, GPA:4.0, 01/2020-12/2020
-* Core courses: Algorithm, Probability Theory, Operating System, Data Base, Security
+* BGA Program, GPA:4.0/4, 01/2020-12/2020
+* Core courses: Algorithm, Probability Theory, Operating System, Data Base, Security. [transcript](assets/transcript_ucb.pdf) 
 
 **Beijing Normal University**
-* Computer Science, GPA 3.7, 09/2018-08/2021
-* Core courses: Mathematical Analysis, C/C++,Python, Data Structure.
+* Computer Science, GPA 3.77/4, 09/2018-08/2021
+* Core courses: Mathematical Analysis, C/C++,Python, Data Structure. [transcript](assets/transcript_bnu.pdf) 
 
 # Awards
 
 
-UWM - Phi Kappa Phi (2022)
+UWM - [Phi Kappa Phi](assets/MembershipVerificationLetter.pdf) (2022)
 
 BMU - Outstanding Camper (05/2020)
 
