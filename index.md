@@ -27,7 +27,7 @@ layout: default
 
 # Publications
 
-Zhan, W., Yang, X., Lu, G., Deng, Y., &amp; Yang, L. (2022). A rapid quality grade discrimination method for Gastrodia elata powderusing ATR-FTIR and Chemometrics. Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy, 264, 120189. https://doi.org/10.1016/j.saa.2021.120189 
+Zhan, W., Yang, X., Lu, G., Deng, Y., &amp; Yang, L. (2022). A rapid quality grade discrimination method for Gastrodia elata powder using ATR-FTIR and Chemometrics. Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy, 264, 120189. https://doi.org/10.1016/j.saa.2021.120189 
 [ pdf ](assets/A%20rapid%20quality%20grade%20discrimination%20method%20for%20Gastrodia%20elata%20powderusing%20ATR-FTIR%20and%20chemometrics.pdf)
 
 # Projects
