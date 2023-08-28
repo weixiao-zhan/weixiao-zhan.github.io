@@ -2,7 +2,21 @@
 layout: default
 ---
 
+# Publications
+
+Zhan, W., Yang, X., Lu, G., Deng, Y., &amp; Yang, L. (2022). A rapid quality grade discrimination method for Gastrodia elata powder using ATR-FTIR and Chemometrics. Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy, 264, 120189. https://doi.org/10.1016/j.saa.2021.120189 
+[ pdf ](assets/A%20rapid%20quality%20grade%20discrimination%20method%20for%20Gastrodia%20elata%20powderusing%20ATR-FTIR%20and%20chemometrics.pdf)
+
 # Internship
+
+**Research Assistant** @ **Beijing YeeZTechnology Co., Ltd** 
+06/2023-08/2023
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tech Stack: Intel SGX, AMD SEV, RISC-V KeyStone, ARM TrustZone, CUDA
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Researched Trusted Execution Environment technology and application, worked on a tentative project to bring GPU computing into TEE Trust Base.
+
+
 **Blockchain Engineer** @ **Beijing YeeZTechnology Co., Ltd** 
 04/2021-07/2021
 
@@ -25,20 +39,13 @@ layout: default
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Participated in research and published “A rapid quality grade discrimination method for Gastrodia elata powder using ATR -FTIR and chemometrics.”
 
-# Publications
-
-Zhan, W., Yang, X., Lu, G., Deng, Y., &amp; Yang, L. (2022). A rapid quality grade discrimination method for Gastrodia elata powder using ATR-FTIR and Chemometrics. Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy, 264, 120189. https://doi.org/10.1016/j.saa.2021.120189 
-[ pdf ](assets/A%20rapid%20quality%20grade%20discrimination%20method%20for%20Gastrodia%20elata%20powderusing%20ATR-FTIR%20and%20chemometrics.pdf)
-
 # Projects
 
 **Binary Analysis Tools Comparison**
-05/2022-Now
+05/2022-05/2023
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Comparing binary analysis tools on how they analyze and reconstruct control flow graphs. Participated in and contributed to [Dyninst](https://github.com/dyninst/dyninst) development.
 
-
----
 
 **Memory Allocation Measurement**
 10/2022-12/2022
@@ -78,21 +85,24 @@ Zhan, W., Yang, X., Lu, G., Deng, Y., &amp; Yang, L. (2022). A rapid quality gra
 
 # Education
 
+**University of California, San Diego**
+* Master of Science
+* Computer Science, 09/2023-NOW
+
 **University of Wisconsin, Madison**
-* current B.S. studeent, 
-* Computer Science, GPA:4.0/4, 09/2021-05/2023(est.)
-* Core courses: Compiler, Machine Learning, ComputerGraphics, Advanced Operating Systems. [transcript](assets/transcript_uwm.pdf) 
+* Bachelor of Science, Honor: Distinction in the Major. [certificate](assets/U_SR_DEGREE.pdf)
+* Computer Science, GPA:3.9/4, 09/2021-05/2023 [transcript](assets/transcript_uwm.pdf) 
+* Core courses: Compiler, Machine Learning, ComputerGraphics, Advanced Operating Systems. 
 
 **University of California, Berkeley**
-* BGA Program, GPA:4.0/4, 01/2020-12/2020
-* Core courses: Algorithm, Probability Theory, Operating System, Data Base, Security. [transcript](assets/transcript_ucb.pdf) 
+* BGA Program, GPA:4.0/4, 01/2020-12/2020 [transcript](assets/transcript_ucb.pdf)
+* Core courses: Algorithm, Probability Theory, Operating System, Data Base, Security.
 
 **Beijing Normal University**
-* Computer Science, GPA 3.77/4, 09/2018-08/2021
-* Core courses: Mathematical Analysis, C/C++,Python, Data Structure. [transcript](assets/transcript_bnu.pdf) 
+* Computer Science, GPA 3.77/4, 09/2018-08/2021 [transcript](assets/transcript_bnu.pdf) 
+* Core courses: Mathematical Analysis, C/C++,Python, Data Structure. 
 
 # Awards
-
 
 UWM - [Phi Kappa Phi](assets/MembershipVerificationLetter.pdf) (2022)
 
