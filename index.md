@@ -12,12 +12,15 @@ https://doi.org/10.1016/j.saa.2021.120189 [[ pdf ](assets/A%20rapid%20quality%20
 **Jr. Applied Scientist** @ **Amazon**
 06/2024-Now
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Books risk detection, review queue optimization
+
+
 **Research Assistant** @ **Beijing YeeZTechnology Co., Ltd** 
 06/2023-08/2023
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tech Stack: Intel SGX, AMD SEV, RISC-V KeyStone, ARM TrustZone, CUDA
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Researched Trusted Execution Environment technology and application, worked on a tentative project to bring GPU computing into TEE Trust Base.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Researched Trusted Execution Environment technology and application, worked on a tentative project to bring GPU computing into TEE Trust Base. [[repo](https://github.com/weixiao-zhan/understanding-hpda-code)]
 
 
 **Blockchain Engineer** @ **Beijing YeeZTechnology Co., Ltd** 
@@ -46,9 +49,7 @@ https://doi.org/10.1016/j.saa.2021.120189 [[ pdf ](assets/A%20rapid%20quality%20
 # Projects
 
 ## Current:
-**Automata Learning**
-
-**LLM Planning**
+**Automata Learning & LLM Planning**
 
 ## Past:
 
