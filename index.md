@@ -4,10 +4,13 @@ layout: default
 
 # Publications
 
-Zhan, W., Yang, X., Lu, G., Deng, Y., &amp; Yang, L. (2022). A rapid quality grade discrimination method for Gastrodia elata powder using ATR-FTIR and Chemometrics. Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy, 264, 120189. https://doi.org/10.1016/j.saa.2021.120189 
-[ pdf ](assets/A%20rapid%20quality%20grade%20discrimination%20method%20for%20Gastrodia%20elata%20powderusing%20ATR-FTIR%20and%20chemometrics.pdf)
+Zhan, W., Yang, X., Lu, G., Deng, Y., &amp; Yang, L. (2022). A rapid quality grade discrimination method for Gastrodia elata powder using ATR-FTIR and Chemometrics. Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy, 264, 120189. 
+https://doi.org/10.1016/j.saa.2021.120189 [[ pdf ](assets/A%20rapid%20quality%20grade%20discrimination%20method%20for%20Gastrodia%20elata%20powderusing%20ATR-FTIR%20and%20chemometrics.pdf)]
 
-# Internship
+# Work Experiences
+
+**Jr. Applied Scientist** @ **Amazon**
+06/2024-Now
 
 **Research Assistant** @ **Beijing YeeZTechnology Co., Ltd** 
 06/2023-08/2023
@@ -20,9 +23,9 @@ Zhan, W., Yang, X., Lu, G., Deng, Y., &amp; Yang, L. (2022). A rapid quality gra
 **Blockchain Engineer** @ **Beijing YeeZTechnology Co., Ltd** 
 04/2021-07/2021
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tech Stack: EVM, Solidity, Vyper, Web3.py
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tech Stack: EVM, Solidity, Vyper, Web3py
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inspected some popular De-Fi protocols’ public code and reconstructed their underlying math models. Developed smart contracts for [Earning.Farm](https://earning.farm/), achieved 9% APY to $10 million tokens.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inspected some popular De-Fi protocols’ public code and reconstructed their underlying math models. Developed smart contracts for [Earning.Farm](https://earning.farm/), achieved 9% APY on $10 million worthed tokens.
 
 
 **Research Assistant** @ **Wiseco Technology (Beijing) Co., Ltd**
@@ -32,6 +35,7 @@ Zhan, W., Yang, X., Lu, G., Deng, Y., &amp; Yang, L. (2022). A rapid quality gra
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Participated in a tentative project, attempting to apply FICO’s score-card model of personal credit score to evaluate companies’ finical standing.
 
+
 **Research Assistant** @ **National Agricultural and Rural Big Data Center-Yunnan Branch**
 02/2019-03/2019
 
@@ -40,6 +44,13 @@ Zhan, W., Yang, X., Lu, G., Deng, Y., &amp; Yang, L. (2022). A rapid quality gra
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Participated in research and published “A rapid quality grade discrimination method for Gastrodia elata powder using ATR -FTIR and chemometrics.”
 
 # Projects
+
+## Current:
+**Automata Learning**
+
+**LLM Planning**
+
+## Past:
 
 **Binary Analysis Tools Comparison**
 05/2022-05/2023
@@ -86,23 +97,32 @@ Zhan, W., Yang, X., Lu, G., Deng, Y., &amp; Yang, L. (2022). A rapid quality gra
 # Education
 
 **University of California, San Diego**
-* Master of Science
-* Computer Science, 09/2023-NOW
+* 09/2023-NOW
+* Master of Science, major in Computer Science
+* GPA:
+* Core courses: Sensing & Estimation in Robotics, Planning & Learning in Robotics, Unsupervised Learning.
 
 **University of Wisconsin, Madison**
-* Bachelor of Science, Honor: Distinction in the Major. [certificate](assets/U_SR_DEGREE.pdf)
-* Computer Science, GPA:3.9/4, 09/2021-05/2023 [transcript](assets/transcript_uwm.pdf) 
+* 09/2021-05/2023 
+* Bachelor of Science, major in Computer Science
+* GPA:3.9/4 [[transcript](assets/transcript_uwm.pdf)]
 * Core courses: Compiler, Machine Learning, ComputerGraphics, Advanced Operating Systems. 
 
 **University of California, Berkeley**
-* BGA Program, GPA:4.0/4, 01/2020-12/2020 [transcript](assets/transcript_ucb.pdf)
+* 01/2020-12/2020 
+* BGA Program
+* GPA:4.0/4 [[transcript](assets/transcript_ucb.pdf)]
 * Core courses: Algorithm, Probability Theory, Operating System, Data Base, Security.
 
 **Beijing Normal University**
-* Computer Science, GPA 3.77/4, 09/2018-08/2021 [transcript](assets/transcript_bnu.pdf) 
+* 09/2018-08/2021 
+* Major in Computer Science, 
+* GPA 3.77/4 [[transcript](assets/transcript_bnu.pdf)]
 * Core courses: Mathematical Analysis, C/C++,Python, Data Structure. 
 
 # Awards
+
+UWM - Honor: Distinction in the Major [certificate](assets/U_SR_DEGREE.pdf)
 
 UWM - [Phi Kappa Phi](assets/MembershipVerificationLetter.pdf) (2022)
 
