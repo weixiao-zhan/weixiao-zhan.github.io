@@ -5,17 +5,19 @@ layout: default
 # Publications
 
 Zhan, W., Yang, X., Lu, G., Deng, Y., &amp; Yang, L. (2022). A rapid quality grade discrimination method for Gastrodia elata powder using ATR-FTIR and Chemometrics. Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy, 264, 120189. 
-https://doi.org/10.1016/j.saa.2021.120189 [[ pdf ](assets/A%20rapid%20quality%20grade%20discrimination%20method%20for%20Gastrodia%20elata%20powderusing%20ATR-FTIR%20and%20chemometrics.pdf)]
+[https://doi.org/10.1016/j.saa.2021.120189](https://doi.org/10.1016/j.saa.2021.120189) [[ pdf ](assets/A%20rapid%20quality%20grade%20discrimination%20method%20for%20Gastrodia%20elata%20powderusing%20ATR-FTIR%20and%20chemometrics.pdf)]
 
 # Work Experiences
 
 **Jr. Applied Scientist** @ **Amazon**
 06/2024-Now
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Books risk detection, review queue optimization
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tech Stack: NLP, LLM, Reinforcement learning, Autoregressive models
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Built risk models for book publishing service, developed queue optimization methods for manual review process.
 
 
-**Research Assistant** @ **Beijing YeeZTechnology Co., Ltd** 
+**Software Engineer** @ **Beijing YeeZTechnology Co., Ltd** 
 06/2023-08/2023
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tech Stack: Intel SGX, AMD SEV, RISC-V KeyStone, ARM TrustZone, CUDA
@@ -31,12 +33,12 @@ https://doi.org/10.1016/j.saa.2021.120189 [[ pdf ](assets/A%20rapid%20quality%20
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Inspected some popular De-Fi protocols’ public code and reconstructed their underlying math models. Developed smart contracts for [Earning.Farm](https://earning.farm/), achieved 9% APY on $10 million worthed tokens.
 
 
-**Research Assistant** @ **Wiseco Technology (Beijing) Co., Ltd**
+**Research Assistant** @ **FICO (China) Co., Ltd**
 01/2021-02/2021
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tech Stack:SQL, SVM, Scorecard
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tech Stack: SQL, SVM, Scorecard
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Participated in a tentative project, attempting to apply FICO’s score-card model of personal credit score to evaluate companies’ finical standing.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Applied FICO’s score-card alike model to evaluate companies’ finical standing.
 
 
 **Research Assistant** @ **National Agricultural and Rural Big Data Center-Yunnan Branch**
@@ -49,7 +51,17 @@ https://doi.org/10.1016/j.saa.2021.120189 [[ pdf ](assets/A%20rapid%20quality%20
 # Projects
 
 ## Current:
-**Automata Learning & LLM Planning**
+
+**LLM Planning**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Implementing RAG-guided scene-graph-based LLM planning on an actual robot.
+
+**Automata Learning and Task Planning from Videos**
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Learning long-horizon task specifications and representations. 
+Explored optimization-based planning on differentiable sequence models.
 
 ## Past:
 
@@ -100,13 +112,13 @@ https://doi.org/10.1016/j.saa.2021.120189 [[ pdf ](assets/A%20rapid%20quality%20
 **University of California, San Diego**
 * 09/2023-NOW
 * Master of Science, major in Computer Science
-* GPA:
+* GPA: 3.8/4.0 [[transcript](assets/transcript_ucsd.pdf)]
 * Core courses: Sensing & Estimation in Robotics, Planning & Learning in Robotics, Unsupervised Learning.
 
 **University of Wisconsin, Madison**
 * 09/2021-05/2023 
 * Bachelor of Science, major in Computer Science
-* GPA:3.9/4 [[transcript](assets/transcript_uwm.pdf)]
+* GPA:3.98/4 [[transcript](assets/transcript_uwm.pdf)]
 * Core courses: Compiler, Machine Learning, ComputerGraphics, Advanced Operating Systems. 
 
 **University of California, Berkeley**
