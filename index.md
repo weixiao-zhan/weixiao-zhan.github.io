@@ -52,16 +52,12 @@ Zhan, W., Yang, X., Lu, G., Deng, Y., & Yang, L. (2022). [A rapid quality grade 
 
 ## <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>⊛</mo></math> Current:
 
-**Automata Learning and Task Planning from Videos**
-
-Learning long-horizon task specifications and representations. 
-Explored optimization-based planning on differentiable sequence models.
-
-**LLM Planning**
-
-Implementing RAG-guided scene-graph-based LLM planning on an actual robot.
-
 ## <math xmlns="http://www.w3.org/1998/Math/MathML"><mo>⊛</mo></math> Past:
+
+**LATMOS**
+Given observations of task demonstrations, to learn a continuous task representation that allows to validate the executions of the task and plan ahead the next steps in the task space.
+[[pdf]()|[code](https://github.com/weixiao-zhan/LATMOS)]
+
 
 **Safe Trajectory Tracing**
 
