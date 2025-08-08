@@ -3,18 +3,19 @@ layout: default
 ---
 
 # Publications
+Zhan, W., Dong, Q., Sebastián, E., & Atanasov, N. (2025). [LATMOS: Latent automaton task model from observation sequences.](https://arxiv.org/pdf/2503.08090) Paper to be presented at the IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS).
 
 Zhan, W., Yang, X., Lu, G., Deng, Y., & Yang, L. (2022). [A rapid quality grade discrimination method for Gastrodia elata powder using ATR-FTIR and Chemometrics](https://doi.org/10.1016/j.saa.2021.120189). Spectrochimica Acta Part A: Molecular and Biomolecular Spectroscopy, 264, 120189.
 [ [pdf](assets/papers/A%20rapid%20quality%20grade%20discrimination%20method%20for%20Gastrodia%20elata%20powderusing%20ATR-FTIR%20and%20chemometrics.pdf) ]
 
 # Work Experiences
 
-**Jr. Applied Scientist** @ **Amazon**
+**Applied Scientist** @ **Amazon**
 06/2024-Now
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tech Stack: NLP, LLM, Reinforcement learning, Autoregressive models
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tech Stack: LLM, VLM, Reinforcement learning
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Built risk models for book publishing service, developed queue optimization methods for manual review process.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supervised / reinforcement fine-tuning, domain foundational model continuous pre-training, 
 
 
 **Software Engineer** @ **Beijing YeeZTechnology Co., Ltd** 
